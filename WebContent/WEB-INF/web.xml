@@ -13,4 +13,15 @@
 		<servlet-name>HelloServlet</servlet-name>
 		<url-pattern>/hello</url-pattern>
 	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>BaslangicRequest</servlet-name>
+		<servlet-class>BaslangicRequest.BaslangicRequest</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>BaslangicRequest</servlet-name>
+		<url-pattern>/BaslangicRequest</url-pattern>
+	</servlet-mapping>
+	
+	
 </web-app>
