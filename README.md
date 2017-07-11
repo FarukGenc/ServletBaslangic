@@ -1,16 +1,19 @@
 ## Java Servlet hakkında 
+---
 
-1. Level1
-*Request
-*Response
-*Config
-*Context
+### Level1
 
-2. Level2
-*Attiribute
-*Listener
-*Redirect
-*Session
+ - Request
+ - Response
+ - Config
+ - Context
+
+### Level2
+
+ - Attiribute
+ -Listener
+ -Redirect
+ -Session
 
 
 	

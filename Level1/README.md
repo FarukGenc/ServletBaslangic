@@ -1,6 +1,6 @@
 #Level1
 
-*Request
-*Response
-*Config
-*Context
+- Request
+- Response
+- Config
+- Context
